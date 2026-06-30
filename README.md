@@ -38,5 +38,7 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 
 ## 🙌 Let's Connect
 Feel free to reach out if you want to discuss Software Engineer, Software Testing, or collaboration opportunities!
+
 📧 Email: sarwaaulia01@gmail.com
+
 💼 LinkedIn: Sarwa Aulia Nabila Ramadhani
