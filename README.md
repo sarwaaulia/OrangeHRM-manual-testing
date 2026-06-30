@@ -1,10 +1,10 @@
-HR Management System (OrangeHRM) - Employee Management & Leave Management Module
+**🧑🏻‍🦱 **HR Management System (OrangeHRM) - Employee Management & Leave Management Module****
 
 This project demonstrates the employee and leave management workflow in the [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
 
 This project aims to demonstrate the complete QA workflow, from test planning coverage, manual test case design, execution tracking, defect reporting, to the final results stored in this folder.
 
-Folder Structure
+**📁 **Folder Structure****
 .
 └── OrangeHRM-Manual-Testing/
     ├── test_plan                   # test plan (scopes, objective, environment, risk)
@@ -14,7 +14,7 @@ Folder Structure
     ├── rtm                         # requirement traceability matrix
     └── README.md                   # project overivew
  
-Scope-of-Testing
+**🧪 **Scope-of-Testing****
 - autentication flows (login & logout)
 - employee management (add, view, delete, update) 
 - leave management (apply, reject, approve, cancel)
@@ -23,7 +23,7 @@ Scope-of-Testing
 - error massage validation
 - session management
 
-Tools & Technologies
+**⚙️ **Tools & Technologies****
 | Tools | Purpose |
 | :--- | :---: | ---: |
 | Jira | Bug tracking & test case organization |
@@ -31,6 +31,6 @@ Tools & Technologies
 | Google Document | Documentation & reporting |
 | VS Code + GitHub | Version Control & portfolio |
 
-🙌 Let's Connect
-✉️ sarwaaulia01@gmail.com
-🔗 c
+**🙌 Let's Connect**
+- [Gmail](sarwaaulia01@gmail.com)
+- [Linkedin]([sarwaaulia01@gmail.com](https://www.linkedin.com/in/sarwa-aulia-nabila-ramadhani/])
