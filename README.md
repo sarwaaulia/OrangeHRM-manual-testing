@@ -41,4 +41,4 @@ Feel free to reach out if you want to discuss Software Engineer, Software Testin
 
 📧 Email: sarwaaulia01@gmail.com
 
-💼 LinkedIn: Sarwa Aulia Nabila Ramadhani
+💼 LinkedIn: [Sarwa Aulia Nabila Ramadhani](https://www.linkedin.com/in/sarwa-aulia-nabila-ramadhani/)
