@@ -1,20 +1,25 @@
-**🧑🏻‍🦱 **HR Management System (OrangeHRM) - Employee Management & Leave Management Module****
+# 🧑🏻‍🦱 HR Management System (OrangeHRM) - Employee & Leave Management Module
 
-This project demonstrates the employee and leave management workflow in the [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
+This project demonstrates the complete end-to-end Manual QA workflow for the employee and leave management modules, utilizing the [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) as the test object.
 
-This project aims to demonstrate the complete QA workflow, from test planning coverage, manual test case design, execution tracking, defect reporting, to the final results stored in this folder.
+The goal of this repository is to showcase end-to-end QA practices, covering test planning, manual test case design, execution tracking, defect reporting, and requirement traceability.
 
-**📁 **Folder Structure****
+---
+
+## 📁 Folder Structure
+
+```text
 .
 └── OrangeHRM-Manual-Testing/
-    ├── test_plan                   # test plan (scopes, objective, environment, risk)
-    ├── test_cases                  # test design ()
-    ├── execution_logs              # tracking test run result
-    ├── defect_reports              # write ups
-    ├── rtm                         # requirement traceability matrix
-    └── README.md                   # project overivew
- 
-**🧪 **Scope-of-Testing****
+    ├── test_plan/          # Test strategy, scope, objectives, environment, and risk assessment
+    ├── test_cases/         # Detailed manual test cases design
+    ├── execution_logs/     # Test run results and tracking history
+    ├── defect_reports/     # Formal bug write-ups and issue tracking
+    ├── rtm/                # Requirement Traceability Matrix (RTM)
+    └── README.md           # Project overview and documentation
+```
+
+## 🧪 Scope of Testing
 - autentication flows (login & logout)
 - employee management (add, view, delete, update) 
 - leave management (apply, reject, approve, cancel)
@@ -23,14 +28,15 @@ This project aims to demonstrate the complete QA workflow, from test planning co
 - error massage validation
 - session management
 
-**⚙️ **Tools & Technologies****
-| Tools | Purpose |
-| :--- | :---: | ---: |
-| Jira | Bug tracking & test case organization |
-| Microsoft Excel | Test case management |
-| Google Document | Documentation & reporting |
-| VS Code + GitHub | Version Control & portfolio |
+## ⚙️ Tools & TechnologiesTools
+| Tools | Purpose | Category |
+| :--- | :--- | :--- |
+| **Jira** | Bug Tracking & Test Case Organization | Issue Tracker |
+| **Microsoft Excel** | Test Case Design & RTM Matrix | Test Management |
+| **Google Docs** | Test Plan & Reporting | Documentation |
+| **VS Code & GitHub** | Project Structure & Documentation | Version Control |
 
-**🙌 Let's Connect**
-- [Gmail](sarwaaulia01@gmail.com)
-- [Linkedin]([sarwaaulia01@gmail.com](https://www.linkedin.com/in/sarwa-aulia-nabila-ramadhani/])
+## 🙌 Let's Connect
+Feel free to reach out if you want to discuss Software Engineer, Software Testing, or collaboration opportunities!
+📧 Email: sarwaaulia01@gmail.com
+💼 LinkedIn: Sarwa Aulia Nabila Ramadhani
