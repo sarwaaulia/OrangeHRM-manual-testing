@@ -33,4 +33,3 @@ Tools & Technologies
 
 🙌 Let's Connect
 ✉️ sarwaaulia01@gmail.com
-🔗 c
