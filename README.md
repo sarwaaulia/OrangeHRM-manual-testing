@@ -31,8 +31,8 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 ## ⚙️ Tools & TechnologiesTools
 | Tools | Purpose | Category |
 | :--- | :--- | :--- |
-| **Trello** | Bug Tracking & Test Case Organization | Issue Tracker |
-| **Microsoft Excel** | Test Case Design & RTM Matrix | Test Management |
+| **Trello** | Test Case Organization & Achieve Project Goals and Targets | Project Management |
+| **TestLink** | Test Case Design & RTM Matrix | Test Management |
 | **Google Docs** | Test Plan & Reporting | Documentation |
 | **VS Code & GitHub** | Project Structure & Documentation | Version Control |
 
