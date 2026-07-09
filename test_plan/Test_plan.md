@@ -8,13 +8,12 @@ This test plan aims to verify that the Employee Management and Leave Management 
 
 1. ##  **In-Scope**
 
-* UI authentication functionality (login, logout)  
+* Login functionality 
 * Employee management (add employee, view employee details, edit employee, delete employee)  
 * Leave management functionality  (apply leave, approve leave, reject leave, cancel leave)  
-* Search and filtering functionality (search by employee name, search by employee ID, filter by employment status)  
+* Search and filtering functionality  
 * Field validation  
-* Error message validation  
-* Session management 
+* Error message validation
 
 2. ##  **Out-of-Scope**
 
