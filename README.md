@@ -13,7 +13,7 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 └── OrangeHRM-Manual-Testing/
     ├── test_plan/          # Test strategy, scope, objectives, environment, and risk assessment
     ├── test_cases/         # Detailed manual test cases design
-    ├── execution_reports/     # Test run results and tracking history
+    ├── execution_reports/  # Summary report on execution results
     ├── defect_reports/     # Formal bug write-ups and issue tracking
     ├── rtm/                # Requirement Traceability Matrix (RTM)
     └── README.md           # Project overview and documentation
