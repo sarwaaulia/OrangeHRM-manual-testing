@@ -29,10 +29,11 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 ## ⚙️ Tools & TechnologiesTools
 | Tools | Purpose | Category |
 | :--- | :--- | :--- |
-| **Trello** | Test Case Organization & Achieve Project Goals and Targets | Project Management |
-| **Microsoft Excel** | Test Case Design & RTM Matrix | Test Management |
-| **Google Docs** | Test Plan & Reporting | Documentation |
-| **VS Code & GitHub** | Project Structure & Documentation | Version Control |
+| **Trello** | Test Case Organization & Achieve Project Goals and Targets |
+| **Microsoft Excel** | Test Case Design & RTM & Execution Report |
+| **Google Docs** | Test Plan |
+| **VS Code & GitHub** | Project Structure & Documentation |
+| **Markdown** | Documentation |
 
 ## 🙌 Let's Connect
 Feel free to reach out if you want to discuss Software Engineer, Software Testing, or collaboration opportunities!
