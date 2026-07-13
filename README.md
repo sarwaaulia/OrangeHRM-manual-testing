@@ -28,7 +28,7 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 
 ## ⚙️ Tools & TechnologiesTools
 | Tools | Purpose |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Trello** | Test Case Organization & Achieve Project Goals and Targets |
 | **Microsoft Excel** | Test Case Design & RTM & Execution Report |
 | **Google Docs** | Test Plan |
