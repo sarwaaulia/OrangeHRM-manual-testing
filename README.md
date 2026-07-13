@@ -20,7 +20,7 @@ The goal of this repository is to showcase end-to-end QA practices, covering tes
 ```
 
 ## 🧪 Scope of Testing
-- autentication flows (login & logout)
+- login functionality
 - employee management (add, view, delete, update) 
 - search and filtering (by name/id, filtering by employement status)
 - field validation
